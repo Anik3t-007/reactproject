@@ -7,7 +7,7 @@ The application is a basic employee performance review tool. It has the followin
 - Add/remove/update/view employees
 - Add/update/view performance reviews
 
-Here is a screenshot of the "Employees" page:
+Here is a screenshot of the "Employees" page x:
 <p align="center">
   <img src="screenshot.png" width="600"/>
 </p>
