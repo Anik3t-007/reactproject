@@ -12,7 +12,7 @@ Here is a screenshot of the "Employees" page:
   <img src="screenshot.png" width="600"/>
 </p>
 
-### Technology used
+### Technology used ..
 - React on the client side
 - Node.js/Express on the server side
 - MySQL database
