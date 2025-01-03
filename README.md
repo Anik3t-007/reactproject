@@ -5,7 +5,7 @@
 The application is a basic employee performance review tool. It has the following functionality:
 - List all employees
 - Add/remove/update/view employees  rgr
-- Add/update/view performance reviews
+- Add/update/view performance reviewds
 e
 Here is a screenshot of the "Employees" page x:
 <p align="center">
